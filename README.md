@@ -13,4 +13,6 @@ A simple and interactive Stone, Paper & Scissors game built using HTML, CSS, and
 
 ![image alt](https://github.com/Yashpalsinh04/Rock_Paper_Scissors_Game/blob/f0aa61d591d7d340bfc1dc4e88c44bd7799d5b85/Screenshot.png)
 
-https://github.com/Yashpalsinh04/Rock_Paper_Scissors_Game/issues/1#issue-2555489642
+https://github.com/user-attachments/assets/35fbc4eb-1fe9-4d7f-b764-33ae1e57b781
+
+
